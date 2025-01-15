@@ -1,5 +1,3 @@
-Here’s an example of an attractive bio for your GitHub profile:
-
 👋 Hi there!
 
 I’m a passionate developer and problem solver who loves turning ideas into elegant solutions. Whether it’s writing clean code, crafting intuitive user experiences, or exploring cutting-edge technologies, I’m always excited to learn, build, and share.
@@ -18,7 +16,3 @@ I’m a passionate developer and problem solver who loves turning ideas into ele
 	•	🔗 [Your Portfolio/Website Link]
 	•	💼 [Your LinkedIn Profile]
 	•	🐦 [Your Twitter/GitHub links if applicable]
-
-Let’s make the world better, one line of code at a time!
-
-Feel free to customize this based on your interests and skills!
